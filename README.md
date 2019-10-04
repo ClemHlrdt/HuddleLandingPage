@@ -1,4 +1,4 @@
-# LandingPage
+# Huddle - LandingPage
 
 Landing page from FrontendMentor.io. cta
 
