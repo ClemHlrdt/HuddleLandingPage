@@ -1,2 +1,3 @@
 # LandingPage
-Landing page from codementor.io
+
+Landing page from FrontendMentor.io
